@@ -42,7 +42,7 @@ And you need ispc compiler from https://github.com/ispc/ispc.git. You may need a
 
 
 ### 4. Build and Run the Project (CMake)
-The main file is in /src/main.cpp. There you will find the definition of scenario for intersection. This senario is designed to see the difference between with and without nondimensionalization. 
+The main file is in /src/main.cpp. There you will find the definition of scenario for intersection. This scenario is designed to see the difference between with and without nondimensionalization. 
 
 #### Create build folder
 ```bash
